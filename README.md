@@ -1,8 +1,8 @@
 # RS_Cloud-GAN
 RS_CloudGAN: A Novel Feature Map Ensemble UNet GAN Architecture for Cloud Removal from Remote Sensing Imagery
 
-Authors:
-Arrun Sivasubramanian, Jaya Saxena, Sowmya V
+### Authors:
+### Arrun Sivasubramanian, Jaya Saxena, Sowmya V
 
 Abstract:
 The high resolution of remote sensing images has been tremendously utilized in several
