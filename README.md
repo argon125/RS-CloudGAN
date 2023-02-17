@@ -6,7 +6,7 @@ RS_CloudGAN: A Novel Feature Map Ensemble UNet GAN Architecture for Cloud Remova
 
 ### Affiliation:
 ### 1) NRSC, Indian Space Research Organization, Hyderabad, India
-### 2) Center for Computational ENgineering and Networking, Amrita School of Engineering, Coimbatore, India  
+### 2) Center for Computational Engineering and Networking, Amrita School of Engineering, Coimbatore, India  
 
 ### Abstract:
 The high resolution of remote sensing images has been tremendously utilized in several
