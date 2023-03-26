@@ -2,7 +2,7 @@
 RS_CloudGAN: A Novel Feature Map Ensemble UNet GAN Architecture for Cloud Removal from Remote Sensing Imagery
 
 ### Authors:
-### Arrun Sivasubramanian(1,2), Jaya Saxena(1), Sowmya V(2)
+### Arrun Sivasubramanian(1,2), Jaya Saxena(1), , G Srinivasa Rao(1), Sowmya V(2)
 
 ### Affiliation:
 ### 1) NRSC, Indian Space Research Organization, Hyderabad, India
@@ -27,5 +27,5 @@ benchmark state-of-the-art results on the thick cloud removal by almost 3 dB in 
 and 4% on the structural similarity index. Finally, the Class Activation Maps (CAM) have been
 included for the explainability of the model.
 
-### Submission to : ISPRS Journal of Photogrammetry and Remote Sensing
+### Submission to : IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 ### Codes Avaliable: Post Manuscript Acceptance
