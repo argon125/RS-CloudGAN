@@ -27,5 +27,4 @@ benchmark state-of-the-art results on the thick cloud removal by almost 3 dB in 
 and 4% on the structural similarity index. Finally, the Class Activation Maps (CAM) have been
 included for the explainability of the model.
 
-### Submission to : IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 ### Codes Avaliable: Post Manuscript Acceptance
