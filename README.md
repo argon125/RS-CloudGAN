@@ -1,4 +1,4 @@
-<img width="626" alt="image" src="https://github.com/argon125/RS-CloudGAN/assets/64146402/bdfc9222-f3ae-413a-af0c-cff154da10be"># RS_Cloud-GAN
+# RS_Cloud-GAN
 RS_CloudGAN: A Novel Feature Map Ensemble UNet GAN Architecture for Cloud Removal from Remote Sensing Imagery
 
 ### Abstract:
