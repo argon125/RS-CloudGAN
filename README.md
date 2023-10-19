@@ -6,7 +6,8 @@ The high resolution of remote sensing images is tremendously utilized in several
 
 ### Results
 
-Qualitative analysis
+Qualitative analysis:
+
 <img width="626" alt="image" src="https://github.com/argon125/RS-CloudGAN/assets/64146402/80ee161b-860d-4532-9d54-900a44db3878">
 
 Quantitative metrics:
