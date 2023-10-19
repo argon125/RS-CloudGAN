@@ -1,5 +1,13 @@
-# RS_Cloud-GAN
+<img width="626" alt="image" src="https://github.com/argon125/RS-CloudGAN/assets/64146402/bdfc9222-f3ae-413a-af0c-cff154da10be"># RS_Cloud-GAN
 RS_CloudGAN: A Novel Feature Map Ensemble UNet GAN Architecture for Cloud Removal from Remote Sensing Imagery
+
+### Abstract:
+The high resolution of remote sensing images is tremendously utilized in several applications. However, cloud cover, haze, and shadows inevitably affect remote sensing imagery. Hence, removing the cloud from a satellite image is an essential pre-processing step before any effective analysis. With the increasing popularity of deep learning in image processing, several architectures have been proposed to perform this task. However, the existing single-image cloud removal benchmarks do not eliminate all occlusions when thick clouds overlay the land features. Thus, in this work, we propose a novel architecture called RS CloudGAN to address this problem. The model has been trained on open-source RICE dataset images for thin and thick cloud removal. The generator of the architecture consists of different convolution heads stacked together in the encoder and decoder, a multi-head self-attention block in the bottleneck to extract critical information from encoder feature maps, and a PatchGAN discriminator. The performance has been validated using the Peak Signal Noise Ratio (PSNR) and Structural Similarity Index (SSIM) and is compared with other existing models in the literature. The proposed model outperforms the state-of-the-art results on thick cloud removal by almost 3 dB in PSNR and 4% in SSIM. Experimental validation of the trained model on real-time LandSat8 satellite data from three geographical regions with different cloud cover percentages is also performed. We conducted ablation experiments to identify the best building blocks of the architecture and the training loss function. Finally, the Class Activation Maps (CAM) for these predictions have been included for the explainability of the model results. 
+
+<img width="221" alt="image" src="https://github.com/argon125/RS-CloudGAN/assets/64146402/482764bf-8679-4eea-a1d7-7eea5d7d8017">
+
+<img width="626" alt="image" src="https://github.com/argon125/RS-CloudGAN/assets/64146402/80ee161b-860d-4532-9d54-900a44db3878">
+
 
 ### Authors:
 ### Arrun Sivasubramanian(1,2), Jaya Saxena(1), , G Srinivasa Rao(1), Sowmya V(2)
@@ -8,23 +16,6 @@ RS_CloudGAN: A Novel Feature Map Ensemble UNet GAN Architecture for Cloud Remova
 ### 1) NRSC, Indian Space Research Organization, Hyderabad, India
 ### 2) Center for Computational Engineering and Networking, Amrita School of Engineering, Coimbatore, India  
 
-### Abstract:
-The high resolution of remote sensing images has been tremendously utilized in several
-surveillance applications. However, cloud cover, haze, and shadows inevitably affect remote
-sensing imagery. Hence, removing the cloud from these satellite images is an essential 
-preprocessing step before any effective analysis. 
-With the increasing popularity of deep learning in several image processing tasks, several architectures 
-have been proposed to perform this task. However, the existing benchmarks do not eliminate all 
-occlusions when thick clouds overlay the land features. Thus, in this work, we propose a novel 
-architecture called RS_CloudGAN to address this problem. The model has been trained on paired 
-open-source RICE dataset images for thin and thick cloud removal. The generator of the architecture
-consists of different convolution heads stacked together to generate feature maps and a
-PatchGAN discriminator. The performance has been validated using metrics such as Peak
-Signal Noise Ratio (PSNR) and the Structural Similarity Index (SSIM). The performance of
-RS_Cloud GAN is compared with the existing models, such as Pix2Pix LandSat8 satellite data
-with different cloud cover percentages. The proposed model outperforms the current
-benchmark state-of-the-art results on the thick cloud removal by almost 3 dB in the PSNR ratio
-and 4% on the structural similarity index. Finally, the Class Activation Maps (CAM) have been
-included for the explainability of the model.
+## Dataset: 
 
-### Codes Avaliable: Post Manuscript Acceptance
+RICE Dataset taken from https://github.com/BUPTLdy/RICE_DATASET for training the model.
