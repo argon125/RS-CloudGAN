@@ -15,7 +15,7 @@ Quantitative metrics:
 <img width="391" alt="image" src="https://github.com/argon125/RS-CloudGAN/assets/64146402/c5645aa3-44da-40d6-b114-c2a07e91bcfe">
 <img width="391" alt="image" src="https://github.com/argon125/RS-CloudGAN/assets/64146402/7e3e279e-3019-4470-907b-96e266df4648">
 
-
+### Model weights can be made available on request: Mail to arrun.sivasubramanian@gmail.com 
 ### Authors:
 ### Arrun Sivasubramanian(1,2), Jaya Saxena(1), , G Srinivasa Rao(1), Sowmya V(2)
 
